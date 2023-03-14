@@ -20,3 +20,10 @@ Pastel caseiro
 <div>
   <a href="https://www.youtube.com/watch?v=QGS4oupvlF0" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> 
 </div>
+
+<br>
+
+Bolo de Cenoura
+<div>
+    <a href="https://www.youtube.com/watch?v=IjIP2bjh5Mw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> 
+</div>
